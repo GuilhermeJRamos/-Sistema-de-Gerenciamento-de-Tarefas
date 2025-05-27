@@ -102,3 +102,4 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )# Sistemas-Tarefas-Fullstack
+# Sistemas-Tarefas-Fullstack
